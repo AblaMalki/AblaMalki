@@ -10,7 +10,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abla-malki" target="_blanck"><img width="36px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/33BnnzV.png"/></a>
+  <a href="https://www.linkedin.com/in/abla-malki" target="_blank"><img width="36px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/33BnnzV.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="36px" alt="IG" title="IG" src="https://i.imgur.com/0USUQiW.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
