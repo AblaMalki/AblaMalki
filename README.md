@@ -10,17 +10,18 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abla-malki" target="_blank"><img width="36px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/33BnnzV.png"/></a>
+  <a href="https://www.linkedin.com/in/abla-malki"><img width="36px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/33BnnzV.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/abla.malki" target="_blank"><img width="36px" alt="IG" title="IG" src="https://i.imgur.com/0USUQiW.png"/></a>
+  <a href="https://www.instagram.com/abla.malki"><img width="36px" alt="IG" title="IG" src="https://i.imgur.com/0USUQiW.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.behance.net/malkiabla" target="_blank"><img width="36px" alt="Behance" title="Behance" src="https://i.imgur.com/8RZ0cpQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;  
-</p>
-
-<br/>
+  <a href="https://www.behance.net/malkiabla"><img width="36px" alt="Behance" title="Behance" src="https://i.imgur.com/8RZ0cpQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#828
 
 ## 💙 Featured Projects
+  
+<!--   <p align="left">
+  <a href="https://github.com/AblaMalki/Filmpire"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=github.com/AblaMalki/Filmpire&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Filmpire"></a>
+    </p> -->
 
 ## 🔵 Languages
 
