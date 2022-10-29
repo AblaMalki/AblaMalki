@@ -12,9 +12,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abla-malki" target="_blank"><img width="36px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/33BnnzV.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="36px" alt="IG" title="IG" src="https://i.imgur.com/0USUQiW.png"/></a>
+  <a href="https://www.instagram.com/abla.malki" target="_blank"><img width="36px" alt="IG" title="IG" src="https://i.imgur.com/0USUQiW.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.behance.net/malkiabla"><img width="36px" alt="Behance" title="Behance" src="https://i.imgur.com/8RZ0cpQ.png"/></a>
+  <a href="https://www.behance.net/malkiabla" target="_blank"><img width="36px" alt="Behance" title="Behance" src="https://i.imgur.com/8RZ0cpQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;  
 </p>
 
