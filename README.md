@@ -20,8 +20,15 @@
 ## 💙 Featured Projects
   
 <p align="left">
-  <a href="https://github.com/AblaMalki/Filmpire"><img width="278" src="https://github-readme-stats-ablamalki.vercel.app/api/pin/?username=AblaMalki&repo=github.com/AblaMalki/Filmpire&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Filmpire"></a>
+<!--   <a href="https://github.com/AblaMalki/Filmpire"><img width="278" src="https://github-readme-stats-ablamalki.vercel.app/api/pin/?username=AblaMalki&repo=github.com/AblaMalki/Filmpire&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Filmpire"></a> -->
     </p> 
+    
+ <p align="left">
+  <a href="https://github.com/AblaMalki/Filmpire"><img width="278" src="abla-github-readme-stats.vercel.app/api/pin?username=AblaMalki&repo=Filmpire&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Filmpire"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+  
+</p>
 
 ## 🔵 Languages
 
