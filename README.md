@@ -19,9 +19,9 @@
 
 ## 💙 Featured Projects
   
-<!--   <p align="left">
-  <a href="https://github.com/AblaMalki/Filmpire"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=github.com/AblaMalki/Filmpire&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Filmpire"></a>
-    </p> -->
+<p align="left">
+  <a href="https://github.com/AblaMalki/Filmpire"><img width="278" src="https://github-readme-stats-ablamalki.vercel.app/api/pin/?username=AblaMalki&repo=github.com/AblaMalki/Filmpire&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Filmpire"></a>
+    </p> 
 
 ## 🔵 Languages
 
