@@ -21,7 +21,7 @@
   
 
    <p align="left">
-     <a href="https://github.com/AblaMalki/devflow_nextjs"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=devflow_nextjs&bg_color=1F222E&title_color=3b82f6&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-devflow_nextjs"></a>
+ 
 <a href="https://github.com/AblaMalki/Filmpire"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=Filmpire&bg_color=1F222E&title_color=3b82f6&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Filmpire"></a> 
    <a href="https://github.com/AblaMalki/Lyriks"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=Lyriks&bg_color=1F222E&title_color=3b82f6&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Lyriks"></a> 
   <a href="https://github.com/AblaMalki/CodeTube"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=CodeTube&bg_color=1F222E&title_color=3b82f6&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-CodeTube"></a> 
