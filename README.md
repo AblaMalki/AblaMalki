@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=24&pause=1000&color=05AFF2&center=true&width=435&lines=Web+Developer;Web+Designer;UX+%2F+UI+Designer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=24&pause=1000&color=3b82f6&center=true&width=435&lines=Web+Developer;Web+Designer;UX+%2F+UI+Designer" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -21,10 +21,12 @@
   
 
    <p align="left">
-<a href="https://github.com/AblaMalki/Filmpire"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=Filmpire&bg_color=1F222E&title_color=05AFF2&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Filmpire"></a> 
-   <a href="https://github.com/AblaMalki/Lyriks"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=Lyriks&bg_color=1F222E&title_color=05AFF2&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Lyriks"></a> 
-  <a href="https://github.com/AblaMalki/CodeTube"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=CodeTube&bg_color=1F222E&title_color=05AFF2&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-CodeTube"></a> 
-     <a href="https://github.com/AblaMalki/shoppy"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=shoppy&bg_color=1F222E&title_color=05AFF2&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-shoppy"></a>
+     <a href="https://github.com/AblaMalki/devflow_nextjs"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=devflow_nextjs&bg_color=1F222E&title_color=3b82f6&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-devflow_nextjs"></a>
+<a href="https://github.com/AblaMalki/Filmpire"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=Filmpire&bg_color=1F222E&title_color=3b82f6&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Filmpire"></a> 
+   <a href="https://github.com/AblaMalki/Lyriks"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=Lyriks&bg_color=1F222E&title_color=3b82f6&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Lyriks"></a> 
+  <a href="https://github.com/AblaMalki/CodeTube"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=CodeTube&bg_color=1F222E&title_color=3b82f6&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-CodeTube"></a> 
+     <a href="https://github.com/AblaMalki/shoppy"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=shoppy&bg_color=1F222E&title_color=3b82f6&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-shoppy"></a>
+     
    </p> 
 
   
