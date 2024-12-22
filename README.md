@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/abla.malki"><img width="36px" alt="IG" title="IG" src="https://i.imgur.com/0USUQiW.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.behance.net/malkiabla"><img width="36px" alt="Behance" title="Behance" src="https://i.imgur.com/8RZ0cpQ.png"/></a>
+ 
  
 
 ## 💙 Featured Projects
