@@ -8,12 +8,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=24&pause=1000&color=3b82f6&center=true&width=435&lines=Web+Developer;Web+Designer;UX+%2F+UI+Designer" alt="Typing SVG" /></a>
 </p>
 
-<!-- Social icons section -->
+<!-- Social icons section 
 <p align="center">
   <a href="https://www.linkedin.com/in/abla-malki"><img width="36px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/33BnnzV.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/abla.malki"><img width="36px" alt="IG" title="IG" src="https://i.imgur.com/0USUQiW.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+-->
+
  
  
 
