@@ -18,7 +18,6 @@
 
  
  
-
 ## 💙 Featured Projects
   
 
@@ -30,6 +29,7 @@
      <a href="https://github.com/AblaMalki/shoppy"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AblaMalki&repo=shoppy&bg_color=1F222E&title_color=3b82f6&text_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-shoppy"></a>
      
    </p> 
+
 
   
 ## 🔵 Languages
